@@ -1,6 +1,6 @@
 package gr.aueb.cf.ch2;
 
-public class DiceApp {
+public class Dice2App {
     /**
      * Dice
      */
