@@ -1,2 +1,2 @@
 # CodingFactoryExercises
-My Coding Factory 6 exercises
+My Coding Factory 6 exercises!
