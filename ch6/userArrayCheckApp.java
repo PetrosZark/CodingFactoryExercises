@@ -34,7 +34,7 @@ public class userArrayCheckApp {
             }
         }
 
-        if (correctInput) {
+        if (correctInput == true) {
             moreThanThreeEvens = moreThanThreeEvens(arr);
             System.out.println("More than three even values: " + moreThanThreeEvens);
 

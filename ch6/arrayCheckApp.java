@@ -5,7 +5,7 @@ package gr.aueb.cf.ch6;
  */
 public class arrayCheckApp {
     public static void main(String[] args) {
-        int[] arr= {2, 34, 56, 3, 48, 900, 201, 235, 754, 462, 7284, 22};
+        int[] arr= {2, 34, 56, 3, 48, 900, 201, 335, 554, 462, 784, 122};
         int position = -1;
         int doubleArray[] = new int[arr.length];
         boolean evenExists;
