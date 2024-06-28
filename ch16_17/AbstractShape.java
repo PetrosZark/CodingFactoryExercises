@@ -1,6 +1,6 @@
 package gr.aueb.cf.ch16_17;
 
-public class AbstractShape implements IShape {
+public abstract class AbstractShape implements IShape {
     private long id;
 
     @Override
